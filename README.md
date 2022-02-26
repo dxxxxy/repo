@@ -1,2 +1,2 @@
 # repo
-Trying to create my own repo for maven and stuff.
+My own maven repository.
