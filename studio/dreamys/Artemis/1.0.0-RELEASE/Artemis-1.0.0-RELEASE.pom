@@ -25,11 +25,6 @@
               <goal>shade</goal>
             </goals>
             <configuration>
-              <transformers>
-                <transformer>
-                  <mainClass>studio.dreamys.Hephaestus</mainClass>
-                </transformer>
-              </transformers>
               <filters>
                 <filter>
                   <artifact>*:*</artifact>
